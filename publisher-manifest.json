@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4988a611498dc7be07d29b08",
+  "owner": "vjsakshvh",
+  "repo": "page-04813675fdd3d4b595abe196",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "04813675fdd3d4b595abe196",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "44765cd08eba55464b0900c1f49c0daaea00fc3dad86ea21461b4c687eb3af75",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN 提供安全稳定的VPN加速器服务，支持多设备在线，快速解锁流媒体，助力您畅享全球网络资源。",
+          "AI_DESCRIPTION": "365VPN 提供安全稳定的VPN加速器服务，支持多设备在线，快速解锁流媒体，助力您畅享全球网络资源。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    <style>\n        :root {\n            --coral: #ff6b5a;\n        }\n        * { box-sizing: border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background-color: #f8f5f0;\n            color: #333333;\n            line-height: 1.7;\n            margin: 0;\n            padding: 0;\n        }\n        header {\n            background: white;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.08);\n        }\n        nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 1rem 5%;\n            max-width: 1100px;\n            margin: 0 auto;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: #333333;\n        }\n        .logo span {\n            color: var(--coral);\n        }\n        nav a {\n            color: #333333;\n            text-decoration: none;\n            margin: 0 1.25rem;\n            font-weight: 500;\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 2rem 5%;\n        }\n        h1 {\n            font-size: 3.2rem;\n            margin-bottom: 1rem;\n            color: #333333;\n            text-align: center;\n        }\n        h2 {\n            font-size: 2rem;\n            margin: 2.5rem 0 1rem;\n            color: #333333;\n        }\n        h3 {\n            font-size: 1.5rem;\n            color: var(--coral);\n        }\n        p {\n            margin-bottom: 1rem;\n        }\n        ul {\n            padding-left: 1.5rem;\n        }\n        li {\n            margin-bottom: 0.75rem;\n        }\n        .hero {\n            text-align: center;\n            padding: 4rem 0 3rem;\n            background: linear-gradient(to bottom, #f8f5f0, #ffffff);\n        }\n        .hero p {\n            font-size: 1.25rem;\n            max-width: 600px;\n            margin: 0 auto 2rem;\n            color: #555555;\n        }\n        a {\n            text-decoration: none;\n        }\n        .btn {\n            background: var(--coral);\n            color: white;\n            padding: 12px 32px;\n            border-radius: 50px;\n            font-size: 1.1rem;\n            font-weight: bold;\n            display: inline-block;\n            margin: 1rem 0;\n        }\n        .btn:hover {\n            background: #ff8a7a;\n        }\n        .section {\n            background: white;\n            border-radius: 12px;\n            box-shadow: 0 4px 20px rgba(0,0,0,0.05);\n            padding: 2rem;\n            margin-bottom: 2rem;\n        }\n        .faq {\n            background: white;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 20px rgba(0,0,0,0.05);\n        }\n        details {\n            border-bottom: 1px solid #f0f0f0;\n        }\n        summary {\n            padding: 1.25rem;\n            font-weight: bold;\n            cursor: pointer;\n            font-size: 1.1rem;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        .faq-content {\n            padding: 1.25rem;\n            color: #555555;\n        }\n        footer {\n            text-align: center;\n            padding: 2rem;\n            color: #777777;\n            font-size: 0.9rem;\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">365<span>VPN</span></div>\n            <div>\n                <a href=\"#intro\">品牌</a>\n                <a href=\"#usage\">场景</a>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">常见问题</a>\n                <a href=\"#download\">下载</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <section id=\"hero\" class=\"hero\">\n            <h1>365VPN</h1>\n            <p>安全稳定的VPN加速器，助力您畅享全球网络</p>\n            <a href=\"#plans\" class=\"btn\">立即查看套餐</a>\n        </section>\n        <section id=\"intro\" class=\"section\">\n            <h2>品牌简介</h2>\n            <p>365VPN 是一款专注于提供安全稳定VPN加速服务的品牌。无论在家办公还是娱乐需求，都能为您提供优质网络体验。</p>\n        </section>\n        <section id=\"usage\" class=\"section\">\n            <h2>使用场景</h2>\n            <p>365VPN 适用于多种网络需求，包括但不限于家庭共享、网络访问和日常使用。</p>\n        </section>\n        <section id=\"plans\" class=\"section\">\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"faq\" class=\"section\">\n            <h2>常见问题</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>什么是365VPN？</summary>\n                    <div class=\"faq-content\">365VPN 是一款安全可靠的VPN网络加速器，提供全球节点加速服务，帮助您畅通无阻地访问国内外网络资源。</div>\n                </details>\n                <details>\n                    <summary>如何选择套餐？</summary>\n                    <div class=\"faq-content\">根据您的流量需求和设备数量选择适合的套餐，基础版适合个人使用，旗舰版适合家庭多设备，团队版适合企业大规模使用。</div>\n                </details>\n                <details>\n                    <summary>套餐支持年付吗？</summary>\n                    <div class=\"faq-content\">是的，所有套餐均支持年付，年付有更优惠的价格。</div>\n                </details>\n                <details>\n                    <summary>售后支持如何？</summary>\n                    <div class=\"faq-content\">旗舰版和团队版提供7x24优先工单支持，专业技术团队及时响应用户问题。</div>\n                </details>\n                <details>\n                    <summary>如何下载客户端？</summary>\n                    <div class=\"faq-content\">访问官网，即可下载官方客户端，安装后按照指引进行注册和连接。</div>\n                </details>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <div class=\"faq-content\">基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台设备。</div>\n                </details>\n            </div>\n        </section>\n        <section id=\"clients\">\n            {{CLIENTS_HTML}}\n        </section>\n    </main>\n    <footer>\n        © 2024 365VPN 版权所有\n    </footer>\n\n",
+          "hash": "870cb02decbb56022295b133212589d2abf5f0361d9a4e3953549e50b3970595",
+          "seo": {
+            "title": "365VPN - 专业VPN加速器 客户端下载与官网",
+            "keywords": "365VPN, VPN加速器, 客户端下载, 官网, 网络加速, VPN服务",
+            "description": "365VPN 提供安全稳定的VPN加速器服务，支持多设备在线，快速解锁流媒体，助力您畅享全球网络资源。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rdauuuo.cn",
+    "host": "c.rdauuuo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "rdauuuo.cn",
+      "url": "https://rdauuuo.cn/",
+      "label": "V2Club",
+      "apex": "rdauuuo.cn",
+      "kind": null,
+      "identity": "an6dhm/page-c400d3a0678e49c647e01553"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fe92ee2d39af61e583cbcabbd05f649515e34d77108ebb185cd523a6addf9195",
+    "sitemap.xml": "d79f96f299d94eaeac220196e3eb5094ff730b699b268ad5dd52b2dc9b269b22",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9cc6240fcfbb33cfd02f1456c4ee75115265ec7f79d579cee217d48a29440185",
+    "robots.txt": "6a93f8e09227a4121130dd1490bcb9a55bc57905196f72629591b5ba9d8f8caa",
+    "75b1e66e934441aecca22a81e9e97119.txt": "eadc2ef717f6adeb7300eabbe1a8b26e01a25d6a053d0877cfc70af825234ed5"
+  },
+  "revision": "2fa1764e70ead4ffef17f9524cc68a5c0e13b2e702431eea4de8ce14afcf0e01"
+}
